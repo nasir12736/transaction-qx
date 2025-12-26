@@ -1,0 +1,53 @@
+{
+  "active": true,
+
+  "password_required": true,
+
+  "blocked": [
+    "uid_999824",
+    "uid_900002"
+  ],
+
+  "users": {
+    "uid_593351": {
+      "name": "MyPc",
+      "password": "pass01"
+    },
+    "uid_106380": {
+      "name": "MyAndroid",
+      "password": "pass02"
+    },
+    "uid_424537": {
+      "name": "HulkTrader2k",
+      "password": "HulkTrader30$+2k"
+    },
+    "uid_100004": {
+      "name": "User04",
+      "password": "pass04"
+    },
+    "uid_100005": {
+      "name": "User05",
+      "password": "pass05"
+    },
+    "uid_100006": {
+      "name": "User06",
+      "password": "pass06"
+    },
+    "uid_100007": {
+      "name": "User07",
+      "password": "pass07"
+    },
+    "uid_100008": {
+      "name": "User08",
+      "password": "pass08"
+    },
+    "uid_100009": {
+      "name": "User09",
+      "password": "pass09"
+    },
+    "uid_100010": {
+      "name": "User10",
+      "password": "pass10"
+    }
+  }
+}
