@@ -1,53 +1,31 @@
 {
   "active": true,
-
   "password_required": true,
-
   "blocked": [
     "uid_999824",
     "uid_900002"
   ],
-
   "users": {
-    "uid_978966": {
-      "name": "Usmanios30$",
-      "password": "pass01"
-    },
-    "uid_688780": {
-      "name": "MyAndroid",
-      "password": "pass2"
-    },
-    "uid_765309": {
-      "name": "HulkTrader2k",
-      "password": "HulkTrader30$+2k"
-    },
-    "uid_803627": {
-      "name": "ShazaibTrader50$All",
-      "password": "Trx+D2LAllPhonePc"
-    },
-    "uid_889191": {
-      "name": "ehtishampc40",
-      "password": "ehtishampc40"
-    },
-    "uid_626025": {
-      "name": "ehtishamios40$",
-      "password": "pass06"
-    },
-    "uid_484178": {
-      "name": "ehtishamAnd40",
-      "password": "pass07"
-    },
-    "uid_932166": {
-      "name": "myios",
-      "password": "myios"
-    },
-    "uid_657404": {
-      "name": "mudassirali10$",
-      "password": "pass09"
-    },
-    "uid_170980": {
-      "name": "imeTrader30$",
-      "password": "pass10"
-    }
+    "uid_978966": { "name": "Usmanios30$", "password": "pass01" },
+    "uid_688780": { "name": "MyAndroid", "password": "pass02" },
+    "uid_765309": { "name": "HulkTrader2k", "password": "HulkTrader30$+2k" },
+    "uid_803627": { "name": "ShazaibTrader50$All", "password": "Trx+D2LAllPhonePc" },
+    "uid_889191": { "name": "ehtishampc40", "password": "ehtishampc40" },
+    "uid_626025": { "name": "ehtishamios40$", "password": "pass06" },
+    "uid_484178": { "name": "ehtishamAnd40", "password": "pass07" },
+    "uid_932166": { "name": "myios", "password": "myios" },
+    "uid_825898": { "name": "MTrader20$", "password": "pass09" },
+    "uid_170980": { "name": "imeTrader30$", "password": "pass10" },
+
+    "uid_341122": { "name": "AliTrader20$", "password": "pass11" },
+    "uid_552781": { "name": "BilalIOS15$", "password": "pass12" },
+    "uid_884120": { "name": "HamzaPC50$", "password": "pass13" },
+    "uid_119904": { "name": "ZainAndroid25$", "password": "pass14" },
+    "uid_776541": { "name": "AhsanTrader100$", "password": "pass15" },
+    "uid_450219": { "name": "DanishIOS60$", "password": "pass16" },
+    "uid_690337": { "name": "FahadPC30$", "password": "pass17" },
+    "uid_228771": { "name": "SaadAndroid40$", "password": "pass18" },
+    "uid_904662": { "name": "UmerTrader70$", "password": "pass19" },
+    "uid_317890": { "name": "RizwanIOS90$", "password": "pass20" }
   }
 }
