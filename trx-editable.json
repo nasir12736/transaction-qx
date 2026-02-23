@@ -26,6 +26,17 @@
     "uid_881861": { "name": "EltTrader30$", "password": "pass17" },
     "uid_228771": { "name": "SaadAndroid40$", "password": "pass18" },
     "uid_904662": { "name": "UmerTrader70$", "password": "pass19" },
-    "uid_357793": { "name": "CryptoBhai40$", "password": "pass20" }
+    "uid_357793": { "name": "CryptoBhai40$", "password": "pass20" },
+
+    "uid_552301": { "name": "AliTrader50$", "password": "pass21" },
+    "uid_774219": { "name": "BilalAndroid", "password": "pass22" },
+    "uid_991642": { "name": "CryptoKing30$", "password": "pass23" },
+    "uid_663108": { "name": "FastTrader", "password": "pass24" },
+    "uid_482950": { "name": "ZainPc40$", "password": "pass25" },
+    "uid_735194": { "name": "ProTrader60$", "password": "pass26" },
+    "uid_128763": { "name": "AhmadIOS", "password": "pass27" },
+    "uid_547890": { "name": "TraderX90$", "password": "pass28" },
+    "uid_369521": { "name": "SafeTrader", "password": "pass29" },
+    "uid_804276": { "name": "GoldTrader", "password": "pass30" }
   }
 }
