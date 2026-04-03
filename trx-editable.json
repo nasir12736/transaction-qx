@@ -2,9 +2,27 @@
   "active": true,
   "password_required": true,
   "blocked": [
-    "uid_795758",
-    "uid_959867"
-  ],
+  "uid_795758",
+  "uid_959867",
+  "uid_120001",
+  "uid_120002",
+  "uid_120003",
+  "uid_120004",
+  "uid_120005",
+  "uid_120006",
+  "uid_120007",
+  "uid_120008",
+  "uid_120009",
+  "uid_120010",
+  "uid_120011",
+  "uid_120012",
+  "uid_120013",
+  "uid_120014",
+  "uid_120015",
+  "uid_120016",
+  "uid_120017",
+  "uid_120018"
+  ]
   "users": {
     "uid_978966": { "name": "Usmanios30$", "password": "pass01" },
     "uid_324585": { "name": "MyAndroid", "password": "pass02" },
